@@ -32,7 +32,7 @@ public class UserRegistration extends JFrame {
 	
 	
 
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
@@ -44,7 +44,7 @@ public class UserRegistration extends JFrame {
 				}
 			}
 		});
-	}
+	}*/
 			
 public UserRegistration() {
 	setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
